@@ -1,6 +1,6 @@
 # Stanford-Machine-Learning
 
-Homework for Coursera Course: Machine Learning, Andrew Ng.
+Programming Exercises for Coursera Course: Machine Learning, Andrew Ng.
 
 This is a eleven-week course. Dec 28th, 2015 - Mar 21th, 2016.
 
